@@ -43,7 +43,7 @@
         "@react-icons/all-files": "^4.1.0",
         "apexcharts": "^3.44.0",
         "i18next": "^23.9.0",
-        "i18next-browser-languagedetector": "^7.2.0",
+        "i18next-browser-languagedetector": "^8.0.0",
         "i18next-http-backend": "^2.4.3",
         "moment": "^2.29.4",
         "react-apexcharts": "^1.4.1",
